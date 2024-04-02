@@ -6,5 +6,6 @@ As an autodidact, I teach myself a lot of things. So also a few programming and 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=maik-wi&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=maik-wi)
